@@ -1,6 +1,6 @@
-# DevConnector
+# haggler
 
-> Small social network app built with the MERN stack. This is part of my "MERN Stack Front To Back" Udemy course
+> Haggle for any item of value with your trusted sellers from all over the world!
 
 ## Quick Start
 
@@ -34,14 +34,13 @@ module.exports = {
 
 ## App Info
 
+
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
 
 ### Version
 
-1.0.0
+1.0.1
 
 ### License
 
